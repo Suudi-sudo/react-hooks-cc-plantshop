@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "sola wood flower",
+      "image": "https://www.jiomart.com/images/product/original/rv0xupwqgj/plantsy-flower-arrangements-for-every-occasion-enhance-your-decor-home-with-beautifull-pink-flowers-pack-of-3-product-images-orv0xupwqgj-p608676578-1-202404151836.png?im=Resize=(420,420)",
+      "price": 11.11,
+      "id": 8
     }
   ]
 }
